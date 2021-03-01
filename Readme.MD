@@ -10,7 +10,8 @@
 </span>
 
 
-Homebridge-tuya is a homebridge plugin that lets you control your Tuya based devices with Homekit. 
+Homebridge-tuya is a homebridge plugin that lets you control your Tuya based devices with Homekit.   
+This is a fork to prevent logging when the state of a device changes.   
 
 Some devices may not be supported. Please check the common issues tab in the wiki for more info. 
 

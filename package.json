@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-tuya",
+  "name": "homebridge-tuya-no-logs",
   "version": "1.5.0",
-  "description": "🏠 Offical Homebridge plugin for TuyAPI ",
+  "description": "Homebridge plugin for TuyAPI ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iRayanKhan/homebridge-tuya.git"
+    "url": "git+https://github.com/joepool/homebridge-tuya-no-logs.git"
   },
-  "author": "Rayan Khan",
+  "author": "Joe Pool",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iRayanKhan/homebridge-tuya/issues"
+    "url": "https://github.com/joepool/homebridge-tuya-no-logs/issues"
   },
-  "homepage": "https://github.com/iRayanKhan/homebridge-tuya#readme",
+  "homepage": "https://github.com/joepool/homebridge-tuya-no-logs#readme",
   "dependencies": {
     "async": "^3.1.0",
     "commander": "^3.0.1",
