@@ -4,8 +4,8 @@
 
 # Homebridge-Tuya
 
-<a href="https://www.npmjs.com/package/homebridge-tuya"><img title="npm version" src="https://badgen.net/npm/v/homebridge-tuya" ></a>
-<a href="https://www.npmjs.com/package/homebridge-tuya"><img title="npm downloads" src="https://badgen.net/npm/dt/homebridge-tuya" ></a>
+<a href="https://www.npmjs.com/package/homebridge-tuya-no-logs"><img title="npm version" src="https://badgen.net/npm/v/homebridge-tuya-no-logs" ></a>
+<a href="https://www.npmjs.com/package/homebridge-tuya-no-logs"><img title="npm downloads" src="https://badgen.net/npm/dt/homebridge-tuya-no-logs" ></a>
 
 </span>
 
