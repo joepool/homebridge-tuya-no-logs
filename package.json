@@ -1,6 +1,6 @@
 {
   "name": "homebridge-tuya-no-logs",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Homebridge plugin for TuyAPI ",
   "main": "index.js",
   "scripts": {

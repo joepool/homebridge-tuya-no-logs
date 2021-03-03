@@ -2,7 +2,7 @@
 
 <a href="https://github.com/iRayanKhan/Assets-Repo/blob/master/Tuya-Plugin-Branding.png?raw=true"><img alt="homebridge-verified" src="https://github.com/iRayanKhan/Assets-Repo/blob/master/Tuya-Plugin-Branding.png?raw=true" width="500px"></a>
 
-# Homebridge-Tuya
+# Homebridge-Tuya-No-Logs
 
 <a href="https://www.npmjs.com/package/homebridge-tuya-no-logs"><img title="npm version" src="https://badgen.net/npm/v/homebridge-tuya-no-logs" ></a>
 <a href="https://www.npmjs.com/package/homebridge-tuya-no-logs"><img title="npm downloads" src="https://badgen.net/npm/dt/homebridge-tuya-no-logs" ></a>
